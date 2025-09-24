@@ -35,7 +35,7 @@ Take 1 minute to
 - assign the data set the chosen name
 
 ```{r}
-dt = read.table("/Users/ching-nitseng/Documents/GitHub/github_workshop/data/original/placeholder.txt")
+##dt = read.table("/Users/ching-nitseng/Documents/GitHub/github_workshop/data/original/placeholder.txt")
 ```
 
 
